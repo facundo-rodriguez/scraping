@@ -34,7 +34,7 @@ npm install
 node evaluation_spider.js
 ```
 
-###⚙️ Configuración:
+⚙️ ### Configuración:
 
 Configurá el input dentro del archivo evaluation_spider.js:
 
@@ -46,7 +46,7 @@ const scrapingInput = {
 };
 ```
 
-###📤 Salida:
+📤 ### Salida:
 
 Por cada producto, el script imprimirá algo como esto en consola:
 ```
@@ -58,7 +58,7 @@ Por cada producto, el script imprimirá algo como esto en consola:
   "category": "bomboniere"
 }
 ```
-###📁 Estructura del Proyecto
+📁  ### Estructura del Proyecto
 ```
 .
 ├── evaluation_spider.js      # Script principal
@@ -67,7 +67,7 @@ Por cada producto, el script imprimirá algo como esto en consola:
 └── README.md                 # Este archivo
 ```
 
-###✅ Notas adicionales:
+✅ ### Notas adicionales:
 
 -El sitio web carga los productos dinamicamente, por lo que no pude usar cheerio para hacer el scarping :/. 
 Buscando dentro del sitio encontre la api de donde se obtiene la informacion, y fue lo que use.
