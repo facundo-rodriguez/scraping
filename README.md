@@ -34,7 +34,7 @@ npm install
 node evaluation_spider.js
 ```
 
-⚙️ ### Configuración:
+⚙️ ###Configuración:
 
 Configurá el input dentro del archivo evaluation_spider.js:
 
