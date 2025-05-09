@@ -1,0 +1,47 @@
+
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+jspm_packages/
+
+# Environment variables
+.env
+.env.test
+
+# Build output
+dist/
+build/
+
+# IDE files
+.vscode/
+.idea/
+
+# Optional npm cache directory
+.npm/
+
+# Puppeteer Chromium cache
+.chromium/
+
+# Mac system files
+.DS_Store
+
+# Coverage reports
+coverage/
+
+# OS generated files
+Thumbs.db
+
+# Debug files
+*.tgz
